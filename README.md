@@ -5,9 +5,7 @@ A frontend student portal website for accessing course, announcement, and studen
 TEAM NAME:PIXLE CODERS
 
 TEAM MEMBERS
-1.Deekshita.k (USN:2102508234)
-2.Ganashree H.M (USN:2102508033)
-3.Dhruthi.S(USN:2082508077)
+1.Deekshita.k 
 
 TEAM LEADER:Deekshita.k
 
